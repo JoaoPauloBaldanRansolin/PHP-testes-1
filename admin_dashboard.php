@@ -16,6 +16,6 @@ echo "<p>Você está logado como {$_SESSION['username']}</p>";
 <ul>
     <li><a href="manage_users.php">Gerenciar Usuários</a></li>
     <li><a href="manage_roles.php">Gerenciar Papéis</a></li>
-    <li><a href="manage_permissions.php">Gerenciar
-            Permissões</a></li>
+    <li><a href="manage_permissions.php">Gerenciar Permissões</a></li>
+    <li><a href="clientes.php?page=all_clients">Gerenciar clientes</a></li>
 </ul>

@@ -4,4 +4,8 @@ body {
     #content {
     min-height: 300px;
     }
-    
+.carousel-inner{
+    width: 100% !important;
+    height: 300px !important;
+    object-fit: cover !important;
+}
